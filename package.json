@@ -1,0 +1,33 @@
+{
+  "name": "giphy-no-key",
+  "version": "1.0.0",
+  "description": "Get a media from Giphy without api key",
+  "main": "giphy-no-key.js",
+  "type": "module",
+  "scripts": {
+    "test": "node ./test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yoannchb-pro/giphy-no-key.git"
+  },
+  "keywords": [
+    "gif",
+    "gyphi",
+    "no",
+    "auth",
+    "free",
+    "scrap",
+    "key",
+    "media"
+  ],
+  "author": "yoannchb",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yoannchb-pro/giphy-no-key/issues"
+  },
+  "homepage": "https://github.com/yoannchb-pro/giphy-no-key#readme",
+  "dependencies": {
+    "got": "^12.0.0"
+  }
+}
